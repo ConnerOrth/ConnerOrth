@@ -18,3 +18,6 @@ Passionate about the puzzle-solving of software, design patterns, clean code/ ar
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnerOrth&show_icons=true&theme=radical)  
 
 *Opinions are my own.*
+
+
+*This profile was made with the help of the [GitHub Profile Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) by [Arturs Smirnovs](https://github.com/arturssmirnovs)*
