@@ -1,6 +1,6 @@
 ### Hi there 👋,  
 #### my name is Conner.
-I'm a father, software developer, hiker, autist.
+I'm a father, software developer, hiker, boulderer, autist.
 Specialized in #CSharp and #dotNetCore.
 
 Passionate about the puzzle-solving of software, design patterns, clean code/ architecture. Spreading the love for this amazing puzzle-solving job that is Software Development.
